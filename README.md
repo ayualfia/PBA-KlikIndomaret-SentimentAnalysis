@@ -49,6 +49,7 @@ PBA-Amazon-SentimentAnalysis/
 │       └── amazon_bow_tfidf_summary.xlsx
 │
 ├── notebook/
+│   ├── Ayu_Alfia_Putri_PBA__nltk_gutenberg_&_indonlu_smsa.ipynb
 │   ├── week2_amazonshopping_reviews_scrapping.ipynb
 │   ├── week3_amazonshopping_review_preprocessing.ipynb
 │   ├── week3_amazonshopping_review_sentiment.ipynb
