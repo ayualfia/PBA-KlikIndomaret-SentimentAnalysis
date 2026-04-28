@@ -27,7 +27,6 @@ Tujuan dari proyek ini adalah:
 3. Melakukan preprocessing teks agar data siap dianalisis.
 4. Melakukan sentiment analysis menggunakan TextBlob.
 5. Membuat representasi teks menggunakan Bag of Words dan TF-IDF.
-6. Menyiapkan data untuk analisis lanjutan seperti Vector Space Model dan cosine similarity.
 
 ---
 
@@ -54,6 +53,7 @@ PBA-Amazon-SentimentAnalysis/
 │   ├── week3_amazonshopping_review_preprocessing.ipynb
 │   ├── week3_amazonshopping_review_sentiment.ipynb
 │   ├── week4_amazonshopping_review_BoW_TF_IDF.ipynb
+│   ├── week4_TF_IDF_TUGAS_1A_1B_1C.ipynb
 │   └── week5_PBA_Vector_Space_Model.ipynb
 │
 ├── README.md
@@ -189,14 +189,6 @@ data/hasil_BoW_TF-IDF/
 
 ---
 
-### 5. Vector Space Model
-
-**Notebook:** `week5_PBA_Vector_Space_Model.ipynb`
-
-Tahap ini digunakan untuk menghitung kemiripan antar review menggunakan representasi vektor dan cosine similarity.
-
----
-
 ## 📊 Dataset Utama
 
 | File | Keterangan |
@@ -275,7 +267,7 @@ Beberapa visualisasi yang digunakan dalam proyek ini:
 
 ## ✅ Kesimpulan Singkat
 
-Proyek ini menunjukkan proses analisis teks pada review aplikasi Amazon Shopping, mulai dari pengambilan data, eksplorasi, preprocessing, sentiment analysis, Bag of Words, TF-IDF, hingga Vector Space Model. Hasil analisis membantu memahami kecenderungan opini pengguna terhadap aplikasi Amazon Shopping berdasarkan review yang diberikan.
+Proyek ini menunjukkan proses analisis teks pada review aplikasi Amazon Shopping, mulai dari pengambilan data, eksplorasi, preprocessing, sentiment analysis, Bag of Words, TF-IDF. Hasil analisis membantu memahami kecenderungan opini pengguna terhadap aplikasi Amazon Shopping berdasarkan review yang diberikan.
 
 ---
 
